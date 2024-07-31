@@ -20,7 +20,7 @@ Originally developed for personal use, I've simplified ShadowCrypt to make it ac
 **Usage/Install**
 ----
 **You may need to turn off your windows Defender!**
-1. **Download**: [Click here to download ShadowCrypt]
+1. **Download**: [[Click here to download ShadowCrypt]](https://github.com/Jelenk-Valek/ShadowCrypt-FUD/blob/main/releases/release%201.0.0/ShadowCrypt.zip)
 2. **Extract the zip file**
 3. **Run** ShadowCrypt.exe.
 4. **Set the input** (the path to the file you want to make undetectable) and **output** (the directory where the FUD file will be generated).
