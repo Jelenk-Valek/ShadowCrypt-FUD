@@ -2,7 +2,7 @@
 <div class="center" align="center"><center><img src="https://i.ibb.co/7QTgfRK/logo.png" width="3200" alt=""/></center></div>
 
 ----
-<div align="center"><strong>🟦🟦THIS IS A NEW PROJEC FEEL FREE TO CONTRIBUTE TO THIS PROJECT IF YOU HAVE ANY FURTHER IDEAS.🟦🟦</strong></div>
+<div align="center"><strong>🟦THIS IS A NEW PROJECT FEEL FREE TO CONTRIBUTE TO THIS PROJECT IF YOU HAVE ANY FURTHER IDEAS.🟦</strong></div>
 
 ----
 ShadowCrypt is a fully undetectable crypter that bypasses all antivirus software on Windows.
